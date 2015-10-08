@@ -1,0 +1,2 @@
+Use run_convnet.py to train and test using the convolutional neural net pipeline.
+Use run_lbp.py to train and test using the LBP pipeline.
